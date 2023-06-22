@@ -1,7 +1,7 @@
 # HOW TO RUN
 1- Make file execyutable
 ```bash
-cd ~/catkin_ws/src/first_vision
+cd ~/catkin_ws/src/first_vision/scripts
 ```
 ```bash
 chmod +x main_node.py
